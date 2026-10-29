@@ -1,4 +1,4 @@
-# DocuRAG � Document Intelligence & Question Answering System
+# DocuRAG-Document Intelligence & Question Answering System
 
 DocuRAG is a Retrieval-Augmented Generation (RAG) project that enables users to ask questions about documents and receive answers grounded in the document content.
 
@@ -6,12 +6,12 @@ The system processes a PDF document, extracts its text, splits the text into sma
 
 ## Technology Stack
 
-- **Python** � Core programming language
-- **PyMuPDF** � PDF text extraction
-- **Sentence Transformers** � Text embeddings using `all-MiniLM-L6-v2`
-- **FAISS** � Vector indexing and similarity search
-- **Groq API** � Large language model inference
-- **NumPy** � Numerical operations on embedding vectors
+- **Python**-Core programming language
+- **PyMuPDF**-PDF text extraction
+- **Sentence Transformers**-Text embeddings using `all-MiniLM-L6-v2`
+- **FAISS**-Vector indexing and similarity search
+- **Groq API**-Large language model inference
+- **NumPy**-Numerical operations on embedding vectors
 
 ## Current Features
 
